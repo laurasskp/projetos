@@ -1,0 +1,15 @@
+First, you'll need to install linux.
+If you use Windows, it can be WSL.
+
+Follow this simple tutorial:
+https://learn.microsoft.com/en-us/windows/wsl/install
+
+After, you'll need to install GitHub CLI: 
+https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+
+You must have Git installed and configured
+https://github.com/git-guides/install-git
+And you must have an authentication key 
+
+Then, last thing is to create a token on GitHub: settings > developer settings > personal access tokens and set the permission to access the repo and do things such as issues creation.
+
